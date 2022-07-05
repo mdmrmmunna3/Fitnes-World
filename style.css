@@ -43,7 +43,29 @@ p {
 
 
 #background-pic {
-    background-image: url(imges/Shape/Frame\ 58.jpg);
+    background-image: url(imges/Shape/Frame\ 57.jpg);
     background-repeat: no-repeat;
     padding-top: 20px;
+}
+
+.food-titel{
+    text-align: center;
+}
+
+.box-shadow{
+    margin-right: 2%;
+    border-radius: 10px;
+    padding: 30px 0 0 35px;
+    box-shadow: 5px 5px 45px gray;
+}
+
+.box-shadow img {
+    border-radius: 10px;
+}
+
+.box-shadow h4 {
+    font-size: 25px;
+}
+.box-shadow p {
+    color: rgb(68, 64, 64);
 }
