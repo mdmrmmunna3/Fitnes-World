@@ -84,3 +84,16 @@ p {
     font-size: 30px;
 }
 
+footer {
+    background-color: rgb(87, 80, 80);
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer h3 {
+    color: white;
+}
+
+.speach {
+    color: white;
+}
