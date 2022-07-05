@@ -7,17 +7,17 @@ body {
 
 .container-box {
     display: flex;
-    
+    margin-bottom: 100px;
 }
 
 .fitnes-bar {
     width: 50%;
-    margin-left: 7%;
+    margin-left: 5%;
 }
 
 
 .fitnes-bar img {
-    width: 80%;
+    width: 85%;
 }
 
 
@@ -41,3 +41,9 @@ p {
     
 }
 
+
+#background-pic {
+    background-image: url(imges/Shape/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    padding-top: 20px;
+}
