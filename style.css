@@ -69,3 +69,13 @@ p {
 .box-shadow p {
     color: rgb(68, 64, 64);
 }
+
+.chanel-box {
+    display: flex;
+    box-shadow: 5px 5px 45px gray;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    border-radius: 10px;
+}
