@@ -1,0 +1,43 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    font-size: 30px;
+    
+}
+
+.container-box {
+    display: flex;
+    
+}
+
+.fitnes-bar {
+    width: 50%;
+    margin-left: 7%;
+}
+
+
+.fitnes-bar img {
+    width: 80%;
+}
+
+
+h1 span {
+    color: rgb(253, 171, 18);
+}
+
+p {
+    font-size: 18px;
+    color: rgb(173, 151, 151);
+    padding-bottom: 20px;
+}
+
+.link-btn {
+    text-decoration: none;
+    background-image: linear-gradient(salmon,orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    
+}
+
